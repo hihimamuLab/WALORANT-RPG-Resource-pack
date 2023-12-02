@@ -1,1 +1,14 @@
-{"parent":"minecraft:item/handheld_rod","textures":{"layer0":"minecraft:item/carrot_on_a_stick"},"overrides":[{"predicate":{"custom_model_data":1},"model":"minecraft:item/dagger"},{"predicate":{"custom_model_data":2},"model":"minecraft:item/ax"},{"predicate":{"custom_model_data":3},"model":"minecraft:item/magic_rod"},{"predicate":{"custom_model_data":4},"model":"minecraft:item/rapier"}]}
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+        "layer0": "minecraft:item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "minecraft:item/sword"
+        }
+    ]
+}
