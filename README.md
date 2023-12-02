@@ -1,2 +1,2 @@
-# WALORANT RPG Datapack
+# WALORANT RPG Resource pack
 editing now...
