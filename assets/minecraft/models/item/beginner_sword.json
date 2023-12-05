@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/sword",
-		"particle": "item/texture"
+		"0": "item/beginner_sword",
+		"particle": "item/beginner_sword"
 	},
 	"elements": [
 		{
@@ -96,18 +96,23 @@
 			"rotation": [1.39, -90, 0],
 			"translation": [0.25, 9.25, 2.75]
 		},
+		"thirdperson_lefthand": {
+			"rotation": [-114, 0, 31],
+			"translation": [-5, -6.75, 7.25]
+		},
 		"firstperson_righthand": {
-			"rotation": [-16, -90, 32],
-			"translation": [-2, 4, 0]
+			"rotation": [0, -90, 0],
+			"translation": [-2.25, 6, 5.5],
+			"scale": [0.34898, 0.30898, 0.47]
 		},
 		"ground": {
 			"rotation": [-64, 0, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [0, 0, 45],
+			"rotation": [9, 49, 45],
 			"translation": [1, -1.25, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"scale": [0.5, 0.5, 0.9]
 		},
 		"fixed": {
 			"rotation": [0, 0, 45],
