@@ -8,115 +8,115 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "minecraft:item/fire_ball"
+            "model": "minecraft:item/3d/magic/fire/low/fire_ball"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "minecraft:item/flare_bomb"
+            "model": "minecraft:item/3d/magic/fire/medium/flare_bomb"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "minecraft:item/nuclear_shot"
+            "model": "minecraft:item/3d/magic/fire/high/nuclear_shot"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "minecraft:item/bubble_shot"
+            "model": "minecraft:item/3d/magic/water/low/bubble_shot"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "minecraft:item/water_ax"
+            "model": "minecraft:item/3d/magic/water/medium/water_ax"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "minecraft:item/water_cannon"
+            "model": "minecraft:item/3d/magic/water/high/water_cannon"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "minecraft:item/shock_bolt"
+            "model": "minecraft:item/3d/magic/thunder/low/shock_bolt"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "minecraft:item/thunder_bolt"
+            "model": "minecraft:item/3d/magic/thunder/medium/thunder_bolt"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "minecraft:item/ruin_thunder"
+            "model": "minecraft:item/3d/magic/thunder/high/ruin_thunder"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "minecraft:item/bog_down"
+            "model": "minecraft:item/3d/magic/dirt/low/bog_down"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "minecraft:item/summon_golem"
+            "model": "minecraft:item/3d/magic/dirt/medium/summon_golem"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model": "minecraft:item/tidal_wave"
+            "model": "minecraft:item/3d/magic/dirt/high/tidal_wave"
         },
         {
             "predicate": {
                 "custom_model_data": 13
             },
-            "model": "minecraft:item/wind_cutter"
+            "model": "minecraft:item/3d/magic/wind/low/wind_cutter"
         },
         {
             "predicate": {
                 "custom_model_data": 14
             },
-            "model": "minecraft:item/air_burst"
+            "model": "minecraft:item/3d/magic/wind/medium/air_burst"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "minecraft:item/death_storm"
+            "model": "minecraft:item/3d/magic/wind/high/death_storm"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "minecraft:item/amulet"
+            "model": "minecraft:item/artifact/amulet"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "minecraft:item/thorn_bracelet"
+            "model": "minecraft:item/artifact/thorn_bracelet"
         },
         {
             "predicate": {
                 "custom_model_data": 18
             },
-            "model": "minecraft:item/protector"
+            "model": "minecraft:item/artifact/protector"
         },
         {
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "minecraft:item/wind_boots"
+            "model": "minecraft:item/artifact/wind_boots"
         }
     ]
 }

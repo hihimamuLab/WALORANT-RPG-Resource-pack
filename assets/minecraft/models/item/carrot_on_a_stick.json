@@ -8,49 +8,49 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "minecraft:item/beginner_sword"
+            "model": "minecraft:item/3d/sword/beginner_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "minecraft:item/beginner_lance"
+            "model": "minecraft:item/3d/lance/beginner_lance"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "minecraft:item/beginner_dagger"
+            "model": "minecraft:item/3d/dagger/beginner_dagger"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "minecraft:item/beginner_rod"
+            "model": "minecraft:item/3d/rod/beginner_rod"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "minecraft:item/beginner_hammer"
+            "model": "minecraft:item/3d/hammer/beginner_hammer"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "minecraft:item/knight_sword"
+            "model": "minecraft:item/3d/sword/knight_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "minecraft:item/crystal_rod"
+            "model": "minecraft:item/3d/rod/crystal_rod"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "minecraft:item/silent"
+            "model": "minecraft:item/3d/dagger/silent"
         }
     ]
 }
