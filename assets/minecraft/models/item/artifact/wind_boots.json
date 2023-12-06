@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/wind_boots"
+        "layer0": "minecraft:item/artifact/wind_boots"
     }
 }
