@@ -51,6 +51,18 @@
                 "custom_model_data": 8
             },
             "model": "minecraft:item/3d/dagger/silent"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "minecraft:item/3d/lance/origin_spear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "minecraft:item/3d/hammer/blackiron_hammer"
         }
     ]
 }
