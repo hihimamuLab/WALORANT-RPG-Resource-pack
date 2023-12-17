@@ -2,16 +2,6 @@
     "providers": [
         {
             "type": "bitmap",
-            "#": "HP表示",
-            "file": "minecraft:font/hart.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "\uE000"
-            ]
-        },
-        {
-            "type": "bitmap",
             "#": "ゴールド表示",
             "file": "minecraft:font/gold.png",
             "ascent": 8,
