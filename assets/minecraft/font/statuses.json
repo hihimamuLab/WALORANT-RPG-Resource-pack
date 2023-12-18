@@ -7,9 +7,9 @@
             "ascent": 8,
             "height": 9,
             "chars": [
-                "\uE004", "\uE005", "\uE006", 
-                "\uE007", "\uE008", "\uE009", 
-                "\uE00A", "\uE00B", "\uE00C"
+                "\uE004\uE005\uE006", 
+                "\uE007\uE008\uE009", 
+                "\uE00A\uE00B\uE00C"
             ]
         }
     ]

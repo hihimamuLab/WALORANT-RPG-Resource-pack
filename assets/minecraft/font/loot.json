@@ -7,7 +7,7 @@
             "ascent": 8,
             "height": 9,
             "chars": [
-                "\uE002", "\uE003"
+                "\uE002\uE003"
             ]
         }
     ]
