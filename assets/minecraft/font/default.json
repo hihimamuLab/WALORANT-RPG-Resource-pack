@@ -1,12 +1,49 @@
 {
-    "providers": [
-        {
-            "type": "ttf",
-            "#": "ネガティブスペース",
-            "file": "minecraft:negative_spaces.ttf",
-            "shift": [0.0, 0.0],
-            "size": 10.0,
-            "oversample": 1.0
-        }
-    ]
+	"providers": [
+		{
+			"type": "ttf",
+			"#": "ネガティブスペース",
+			"file": "minecraft:negative_spaces.ttf",
+			"shift": [
+				0.0,
+				0.0
+			],
+			"size": 10.0,
+			"oversample": 1.0
+		},
+		{
+			"type": "bitmap",
+			"#": "レアリティ表示",
+			"file": "minecraft:font/rarity.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE002\uE003"
+			]
+		},
+		{
+			"type": "bitmap",
+			"#": "ステータス一覧",
+			"file": "minecraft:font/statuses.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE004\uE005\uE006",
+				"\uE007\uE008\uE009",
+				"\uE00A\uE00B\uE00C"
+			]
+		},
+		{
+			"type": "bitmap",
+			"#": "役職バッジ",
+			"file": "minecraft:font/role_badges.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE00D\uE00E\uE00F\uE010\uE011\uE012",
+				"\uE013\uE014\uE015\uE016\uE017\uE018",
+				"\uE019\uE01A\uE01B\uE01C\uE01D\uE01E"
+			]
+		}
+	]
 }

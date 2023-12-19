@@ -1,141 +1,141 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "minecraft:item/book"
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/book"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/3d/magic/fire/low/fire_ball",
+      "#": "ファイアボール"
     },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "minecraft:item/3d/magic/fire/low/fire_ball",
-            "#": "ファイアボール"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "minecraft:item/3d/magic/fire/medium/flare_bomb",
-            "#": "フレアボム"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3
-            },
-            "model": "minecraft:item/3d/magic/fire/high/nuclear_shot",
-            "#": "ニュークリアショット"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4
-            },
-            "model": "minecraft:item/3d/magic/water/low/bubble_shot",
-            "#": "バブルショット"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5
-            },
-            "model": "minecraft:item/3d/magic/water/medium/water_ax",
-            "#": "ウォーターアックス"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6
-            },
-            "model": "minecraft:item/3d/magic/water/high/water_cannon",
-            "#": "ウォーターキャノン"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 7
-            },
-            "model": "minecraft:item/3d/magic/thunder/low/shock_bolt",
-            "#": "ショックボルト"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 8
-            },
-            "model": "minecraft:item/3d/magic/thunder/medium/thunder_bolt",
-            "#": "サンダーボルト"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 9
-            },
-            "model": "minecraft:item/3d/magic/thunder/high/ruin_thunder",
-            "#": "ルインサンダー"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 10
-            },
-            "model": "minecraft:item/3d/magic/dirt/low/bog_down",
-            "#": "ボグダウン"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 11
-            },
-            "model": "minecraft:item/3d/magic/dirt/medium/summon_golem",
-            "#": "サモンゴーレム"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 12
-            },
-            "model": "minecraft:item/3d/magic/dirt/high/tidal_wave",
-            "#": "タイダルウェーブ"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 13
-            },
-            "model": "minecraft:item/3d/magic/wind/low/wind_cutter",
-            "#": "ウィンドカッター"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 14
-            },
-            "model": "minecraft:item/3d/magic/wind/medium/air_burst",
-            "#": "エアバースト"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 15
-            },
-            "model": "minecraft:item/3d/magic/wind/high/death_storm",
-            "#": "デスサンダー"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "minecraft:item/artifact/amulet",
-            "#": "お守り"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 17
-            },
-            "model": "minecraft:item/artifact/thorn_bracelet",
-            "#": "棘付き腕輪"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 18
-            },
-            "model": "minecraft:item/artifact/protector",
-            "#": "プロテクター"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 19
-            },
-            "model": "minecraft:item/artifact/wind_boots",
-            "#": "ウィンドブーツ"
-        }
-    ]
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/3d/magic/fire/medium/flare_bomb",
+      "#": "フレアボム"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/3d/magic/fire/high/nuclear_shot",
+      "#": "ニュークリアショット"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/3d/magic/water/low/bubble_shot",
+      "#": "バブルショット"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/3d/magic/water/medium/water_ax",
+      "#": "ウォーターアックス"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/3d/magic/water/high/water_cannon",
+      "#": "ウォーターキャノン"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/3d/magic/thunder/low/shock_bolt",
+      "#": "ショックボルト"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:item/3d/magic/thunder/medium/thunder_bolt",
+      "#": "サンダーボルト"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:item/3d/magic/thunder/high/ruin_thunder",
+      "#": "ルインサンダー"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "minecraft:item/3d/magic/dirt/low/bog_down",
+      "#": "ボグダウン"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:item/3d/magic/dirt/medium/summon_golem",
+      "#": "サモンゴーレム"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "minecraft:item/3d/magic/dirt/high/tidal_wave",
+      "#": "タイダルウェーブ"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "minecraft:item/3d/magic/wind/low/wind_cutter",
+      "#": "ウィンドカッター"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "minecraft:item/3d/magic/wind/medium/air_burst",
+      "#": "エアバースト"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "minecraft:item/3d/magic/wind/high/death_storm",
+      "#": "デスサンダー"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "minecraft:item/artifact/amulet",
+      "#": "お守り"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "minecraft:item/artifact/thorn_bracelet",
+      "#": "棘付き腕輪"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "minecraft:item/artifact/protector",
+      "#": "プロテクター"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "minecraft:item/artifact/wind_boots",
+      "#": "ウィンドブーツ"
+    }
+  ]
 }

@@ -1,78 +1,78 @@
 {
-    "parent": "minecraft:item/handheld_rod",
-    "textures": {
-        "layer0": "minecraft:item/carrot_on_a_stick"
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "minecraft:item/3d/sword/beginner_sword",
-            "#": "新人の剣"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "minecraft:item/3d/lance/beginner_lance",
-            "#": "新人の槍"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3
-            },
-            "model": "minecraft:item/3d/dagger/beginner_dagger",
-            "#": "新人の短剣"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4
-            },
-            "model": "minecraft:item/3d/rod/beginner_rod",
-            "#": "新人の杖"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5
-            },
-            "model": "minecraft:item/3d/hammer/beginner_hammer",
-            "#": "新人のハンマー"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6
-            },
-            "model": "minecraft:item/3d/sword/knight_sword",
-            "#": "騎士の剣"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 7
-            },
-            "model": "minecraft:item/3d/rod/crystal_rod",
-            "#": "クリスタルロッド"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 8
-            },
-            "model": "minecraft:item/3d/dagger/silent",
-            "#": "無音の短剣"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 9
-            },
-            "model": "minecraft:item/3d/lance/origin_spear",
-            "#": "原初の槍"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 10
-            },
-            "model": "minecraft:item/3d/hammer/blackiron_hammer",
-            "#": "黒鉄のハンマー"
-        }
-    ]
+	"parent": "minecraft:item/handheld_rod",
+	"textures": {
+		"layer0": "minecraft:item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:item/3d/sword/beginner_sword",
+			"#": "新人の剣"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:item/3d/lance/beginner_lance",
+			"#": "新人の槍"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:item/3d/dagger/beginner_dagger",
+			"#": "新人の短剣"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:item/3d/rod/beginner_rod",
+			"#": "新人の杖"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:item/3d/hammer/beginner_hammer",
+			"#": "新人のハンマー"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:item/3d/sword/knight_sword",
+			"#": "騎士の剣"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:item/3d/rod/crystal_rod",
+			"#": "クリスタルロッド"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "minecraft:item/3d/dagger/silent",
+			"#": "無音の短剣"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "minecraft:item/3d/lance/origin_spear",
+			"#": "原初の槍"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "minecraft:item/3d/hammer/blackiron_hammer",
+			"#": "黒鉄のハンマー"
+		}
+	]
 }
