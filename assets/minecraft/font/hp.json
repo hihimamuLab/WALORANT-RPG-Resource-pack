@@ -6,7 +6,7 @@
 			"file": "minecraft:font/hart.png",
 			"ascent": 8,
 			"height": 16,
-			"shift": [0.0, 16.0],
+			"shift": [10.0, 16.0],
 			"chars": [
 				"\uE000"
 			]
