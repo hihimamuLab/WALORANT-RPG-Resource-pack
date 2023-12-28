@@ -2,8 +2,8 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "minecraft:actionbar_m15.ttf",
-            "shift": [0.0, 15.0],
+            "file": "minecraft:actionbar_m16.ttf",
+            "shift": [0.0, 16.0],
             "size": 8.0,
             "oversample": 1.0
         }
