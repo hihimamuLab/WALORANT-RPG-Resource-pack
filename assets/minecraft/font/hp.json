@@ -4,7 +4,7 @@
 			"type": "bitmap",
 			"#": "HP表示",
 			"file": "minecraft:font/hart.png",
-			"ascent": -10,
+			"ascent": -16,
 			"height": 9,
 			"chars": [
 				"\uE000"
