@@ -4,7 +4,7 @@
 			"type": "bitmap",
 			"#": "ゴールド表示",
 			"file": "minecraft:font/gold.png",
-			"ascent": -24,
+			"ascent": -32,
 			"height": 9,
 			"chars": [
 				"\uE001"
